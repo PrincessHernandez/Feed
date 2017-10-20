@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Feed</string>
+    <string name="google_api"><![CDATA[https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=43.714802,-79.387432&radius=50000&type=airport&key=]]></string>
+</resources>
